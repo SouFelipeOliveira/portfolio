@@ -27,12 +27,20 @@ const Sidebar = () => {
             </nav>
             <ul>
                 <li>
-                    <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/felipe-oliveira-384b00265/' >
+                    <a
+                        href="https://www.linkedin.com/in/felipe-oliveira-384b00265/"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                     </a>
                 </li>
                 <li>
-                    <a target="_blank" rel='noreferrer' href='https://github.com/SouFelipeOliveira'>
+                    <a
+                        href="https://github.com/SouFelipeOliveira"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />  
                     </a>
                 </li>
